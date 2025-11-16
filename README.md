@@ -4,7 +4,7 @@ This project is a complete FinTech web application that provides a data-driven s
 
 The platform is built on a dataset of 400,000 financial records and integrates **MLflow** for experiment tracking and a **Streamlit** web application for real-time predictions.
 
-## 🚀 Key Features
+## Key Features
 * **Dual-Problem Solution:** Solves both Classification (EMI Eligibility) and Regression (Max EMI Amount).
 * **Advanced Feature Engineering:** Creates financial ratios like DTI, Savings Ratio, and a custom Financial Risk Score.
 * **MLflow Integration:** Logs all model experiments, parameters, and metrics for comparison and versioning.
